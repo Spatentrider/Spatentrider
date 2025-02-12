@@ -1,16 +1,20 @@
-## Hi there 👋
+# Ciao, sono Valerio! 
 
-<!--
-**Spatentrider/Spatentrider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Studente a 42 Roma Luiss
 
-Here are some ideas to get you started:
+## 💻 Tecnologie e strumenti che utilizzo:
+- Linguaggi: C, C++
+- Strumenti: Git, Docker, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Attualmente sto imparando:
+- Python
+
+## 📫 Come contattarmi:
+- Email: valerio.bellucci@inwind.it
+- LinkedIn: www.linkedin.com/in/valerio-bellucci-124167349
+
+## 🚀 Progetti in evidenza:
+- [trascendence](https://github.com/Spatentrider/ft_trascendence): Breve descrizione del progetto.
+- [minishell](https://github.com/Spatentrider/Minishell): Breve descrizione del progetto.
+
+Grazie per aver visitato il mio profilo! 😄
