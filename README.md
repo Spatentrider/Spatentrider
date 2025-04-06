@@ -7,7 +7,7 @@ Studente a 42 Roma Luiss
 - Strumenti: Git, Docker, VS Code
 
 ## 🌱 Attualmente sto imparando:
-- Python
+- Java, Spring Boot
 
 ## 📫 Come contattarmi:
 - Email: valerio.bellucci@inwind.it
